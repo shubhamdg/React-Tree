@@ -1,0 +1,22 @@
+{
+  "companyname": "Arjun Infra pvt",
+  "badge": "Red",
+  "childCompany": [
+    {
+      "companyname": "Good Home ltd ",
+      "badge": "blue",
+      "childCompany": [
+        {
+          "companyname": "Private build ltd",
+          "badge": "Green",
+          "childCompany": [{}]
+        }
+      ]
+    },
+    {
+      "companyname": "Cheap Housing ltd",
+      "badge": "blue",
+      "childCompany": [{}]
+    }
+  ]
+}
